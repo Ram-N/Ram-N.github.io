@@ -1,58 +1,66 @@
-# Welcome to My Digital Space
+---
+layout: default
+title: Home
+---
 
-![Profile Avatar](https://github.com/ram_n.png?size=150)
-<!-- Replace 'yourusername' with your actual GitHub username -->
+# Ram Narasimhan
 
-## About Me
+#### Data, Code, Curiosity
 
-I explore generative art through programming, creating visual experiences that blend mathematics, algorithms, and aesthetic intuition. 
-When I'm not coding artistic creations, you'll find me immersed in books across various genres.
-
-I believe in the power of open source and sharing knowledge - that's why I document my creative journey and make my code freely available. 
-
-## 🔥 Recent Updates
-
-- **June 2025**: Homepage redesigned with modern layout and comprehensive project showcase
-- **Latest Project**: [Add your most recent generative art project here]
-- **Currently Reading**: [Current book title] - follow my progress on Goodreads
-- **New Tutorial**: Check out my latest generative art tutorial in the resources section
-
-
-
-### 🎨 Generative Art
-- **[GenArt Works](https://github.com/Ram-N/generative_art/blob/master/contact_sheet.md)** - Collection of my generative art pieces
-- **[Hexagons Gallery](https://ram-n.github.io/hexagons-gallery/)** - Exploring geometric patterns and hexagonal designs
-- **[Archive Gallery](https://ram-n.github.io/gallery/)** - Earlier works (not actively maintained)
-
-### Projects & Resources
-- **[Genuary 2021](https://ram-n.github.io/Genuary_2021/)** - My daily submissions for the month-long generative art challenge
-- **[Gen Art Tutorials](https://ram-n.github.io/generative_art/_build/html/index.html)** - Learn generative art techniques
-- **[Hexagons Documentation](https://ram-n.github.io/hexagons/build/html/index.html)** - Technical documentation for hexagon-based art
-
-## 📚 Reading Journey
-
-Track my reading adventures on Goodreads (aiming for 50+ books per year!):
-
-| Year | Challenge | Status |
-|------|-----------|---------|
-| [2025](https://www.goodreads.com/user_challenges/XXXXX) | Current Year | 🔄 In Progress |
-| [2024](https://www.goodreads.com/user_challenges/XXXXX) | Reading Challenge | ✅ Completed |
-| [2023](https://www.goodreads.com/user_challenges/XXXXX) | Reading Challenge | ✅ Completed |
-| [2022](https://www.goodreads.com/user_challenges/XXXXX) | Reading Challenge | ✅ Completed |
-| [2021](https://www.goodreads.com/user_challenges/25585536) | Reading Challenge | ✅ Completed |
-| [2020](https://www.goodreads.com/user_challenges/19518239) | Reading Challenge | ✅ Completed |
-| [2019](https://www.goodreads.com/user_challenges/15051026) | Reading Challenge | ✅ Completed |
-| [2018](https://www.goodreads.com/user_challenges/10833090) | Reading Challenge | ✅ Completed |
-| [2017](https://www.goodreads.com/user_challenges/8241972) | Reading Challenge | ✅ Completed |
-
-## 🌐 Connect With Me
-
-- **GitHub**: [@yourusername](https://github.com/yourusername) - Follow my coding journey
-- **Goodreads**: [My Reading Profile](https://www.goodreads.com/user/show/XXXXXXX) - See what I'm reading
-- **Email**: [your.email@domain.com](mailto:your.email@domain.com) - Let's chat about art and code
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile) - Professional connections welcome
-- **Twitter/X**: [@yourhandle](https://twitter.com/yourhandle) - Thoughts on tech and creativity
+![Ram's Avatar](https://avatars.githubusercontent.com/Ram_N?size=150)
 
 ---
 
-*Last updated: June 2025*
+### Who I Am
+
+I'm a data scientist, educator, and creative technologist exploring the space where logic meets imagination.  
+By day, I design learning experiences for students and teach them about the future of AI.  
+By night (and weekends), I dive into generative art, maps, word games, and knowledge tools.  
+
+I care deeply about sharing what I learn and building things that invite others to explore — whether that's a visual, an idea, or a line of code.
+
+---
+
+### What I’m Creating
+
+I build with Python, p5.js, and curiosity. My work spans visual art, education tools, and experimental games.
+
+- **[Generative Art Archive](https://github.com/Ram-N/generative_art/blob/master/contact_sheet.md)** – My full collection of visual experiments
+- **[Hexagons Gallery](https://ram-n.github.io/hexagons-gallery/)** – Parametric patterns and geometric tilings
+- **[Genuary 2021](https://ram-n.github.io/Genuary_2021/)** – A month-long challenge of daily generative sketches
+- **[Art Tutorials](https://ram-n.github.io/generative_art/_build/html/index.html)** – Learn to create algorithmic visuals
+- **[Hexagons Docs](https://ram-n.github.io/hexagons/build/html/index.html)** – Documentation for the hex-based design system
+
+Recent updates:
+- **Homepage redesign** – Now cleaner and more focused on art, learning, and reading (June 2025)
+- **New visual project** – Check out the latest additions in the [Gallery](https://ram-n.github.io/gallery/)
+- **Working on** – A geography-based game and a photo-cataloging tool using LLMs
+
+---
+
+### What I’m Reading & Learning
+
+Books are a big part of my life — I read across genres and track my progress via Goodreads.  
+I aim to read 50+ books a year, and my shelf includes fiction, non-fiction, tech, history, and the occasional curveball.
+
+| Year | Challenge | Status |
+|------|-----------|--------|
+| [2025](https://www.goodreads.com/user_challenges/XXXXX) | In Progress | 🔄 |
+| [2024](https://www.goodreads.com/user_challenges/XXXXX) | Completed | ✅ |
+| [2023](https://www.goodreads.com/user_challenges/XXXXX) | Completed | ✅ |
+| [2022](https://www.goodreads.com/user_challenges/XXXXX) | Completed | ✅ |
+| [2021](https://www.goodreads.com/user_challenges/25585536) | Completed | ✅ |
+
+You can follow my full reading history and reviews on  
+**[Goodreads](https://www.goodreads.com/user/show/XXXXXXX)**
+
+---
+
+### Elsewhere
+
+- **GitHub**: [github.com/Ram-N](https://github.com/Ram-N)
+- **Goodreads**: [Reading Profile](https://www.goodreads.com/user/show/XXXXXXX)
+- **Email**: [your.email@domain.com](mailto:your.email@domain.com)
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
+_Last updated: June 2025_
