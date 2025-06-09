@@ -1,10 +1,18 @@
 title: Ram N
-description: Data scientist, educator, generative art explorer
+description: Data science, Education, Tinkering 
 theme: jekyll-theme-minimal
 
+plugins:
+  - jekyll-seo-tag
+
+collections:
+  projects:
+    output: true
+
 # Optional (appears in sidebar)
-logo: https://avatars.githubusercontent.com/Ram_N?size=150
+logo: https://avatars.githubusercontent.com/Ram-N?size=150
 show_downloads: false
+
 
 # Social links
 github:

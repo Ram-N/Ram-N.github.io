@@ -7,52 +7,65 @@ title: Home
 
 #### Data, Code, Curiosity
 
-![Ram's Avatar](https://avatars.githubusercontent.com/Ram_N?size=150)
+![Ram's Avatar](https://avatars.githubusercontent.com/Ram-N?size=150)
 
 ---
 
 ### Who I Am
 
-I'm a data scientist, educator, and creative technologist exploring the space where logic meets imagination.  
-By day, I design learning experiences for students and teach them about the future of AI.  
-By night (and weekends), I dive into generative art, maps, word games, and knowledge tools.  
+I'm a data scientist, trainer, educator, and curious technologist. 
+This page is mostly for my "side projects" which I pursue diligently for months at a time, until I find another shiny spoon!
 
-I care deeply about sharing what I learn and building things that invite others to explore — whether that's a visual, an idea, or a line of code.
+I am happy to share what I learn and building things that invite others to explore
 
 ---
 
 ### What I’m Creating
 
-I build with Python, p5.js, and curiosity. My work spans visual art, education tools, and experimental games.
+### What I’m Creating
 
-- **[Generative Art Archive](https://github.com/Ram-N/generative_art/blob/master/contact_sheet.md)** – My full collection of visual experiments
-- **[Hexagons Gallery](https://ram-n.github.io/hexagons-gallery/)** – Parametric patterns and geometric tilings
-- **[Genuary 2021](https://ram-n.github.io/Genuary_2021/)** – A month-long challenge of daily generative sketches
-- **[Art Tutorials](https://ram-n.github.io/generative_art/_build/html/index.html)** – Learn to create algorithmic visuals
-- **[Hexagons Docs](https://ram-n.github.io/hexagons/build/html/index.html)** – Documentation for the hex-based design system
+I work across code, visuals, and interactive tools — often blending structure with creativity.  
+Many of my side projects live in their own GitHub repos or galleries.
 
-Recent updates:
-- **Homepage redesign** – Now cleaner and more focused on art, learning, and reading (June 2025)
-- **New visual project** – Check out the latest additions in the [Gallery](https://ram-n.github.io/gallery/)
-- **Working on** – A geography-based game and a photo-cataloging tool using LLMs
+**Explore the full list:**  
+→ [View All Projects](/projects)
+
+A few highlights:
+
+- **[Hexagons Gallery](https://ram-n.github.io/hexagons-gallery/)**  
+  Parametric patterns and algorithmic tiling experiments
+
+- **[Generative Art Archive](https://github.com/Ram-N/generative_art/blob/master/contact_sheet.md)**  
+  My evolving collection of visual code sketches using p5.js and Python
+
+- **[Genuary 2021](https://ram-n.github.io/Genuary_2021/)**  
+  31 generative prompts, 31 visual responses — all created in January 2021
+
+- **[Generative Art Tutorials](https://ram-n.github.io/generative_art/_build/html/index.html)**  
+  Step-by-step walkthroughs for building your own visual sketches
+
 
 ---
 
 ### What I’m Reading & Learning
 
 Books are a big part of my life — I read across genres and track my progress via Goodreads.  
-I aim to read 50+ books a year, and my shelf includes fiction, non-fiction, tech, history, and the occasional curveball.
+I aim to read 30+ books a year, and my shelf includes non-fiction, tech, history, some fiction and the occasional curveball.
 
-| Year | Challenge | Status |
-|------|-----------|--------|
-| [2025](https://www.goodreads.com/user_challenges/XXXXX) | In Progress | 🔄 |
-| [2024](https://www.goodreads.com/user_challenges/XXXXX) | Completed | ✅ |
-| [2023](https://www.goodreads.com/user_challenges/XXXXX) | Completed | ✅ |
-| [2022](https://www.goodreads.com/user_challenges/XXXXX) | Completed | ✅ |
-| [2021](https://www.goodreads.com/user_challenges/25585536) | Completed | ✅ |
+| Books Read|
+|------|
+| [2025](https://www.goodreads.com/user_challenges/XXXXX) | 
+| [Books Read in 2024](https://www.goodreads.com/user/year_in_books/2024/37469588) | 
+| [Books Read in 2023](https://www.goodreads.com/user/year_in_books/2023/37469588) | 
+| [Books Read in 2022](https://www.goodreads.com/user/year_in_books/2022/37469588) | 
+| [Books Read in 2021](https://www.goodreads.com/user/year_in_books/2021/37469588) | 
+| [Books Read in 2020](https://www.goodreads.com/user/year_in_books/2020/37469588) | 
+| [Books Read in 2019](https://www.goodreads.com/user/year_in_books/2019/37469588) | 
+| [Books Read in 2018](https://www.goodreads.com/user/year_in_books/2018/37469588) | 
+| [Books Read in 2017](https://www.goodreads.com/user/year_in_books/2017/37469588) | 
 
 You can follow my full reading history and reviews on  
-**[Goodreads](https://www.goodreads.com/user/show/XXXXXXX)**
+**[Goodreads](https://www.goodreads.com/user/show/37469588-ramnarasimhan)**
 
 ---
 
