@@ -20,41 +20,42 @@ I am happy to share what I learn and building things that invite others to explo
 
 ---
 
-### What I’m Creating
 
 ### What I’m Creating
 
-I work across code, visuals, and interactive tools — often blending structure with creativity.  
+I work across code, visuals, and interactive tools — 
 Many of my side projects live in their own GitHub repos or galleries.
 
 **Explore the full list:**  
 → [View All Projects](/projects)
 
+## Art Projects
 A few highlights:
 
 - **[Hexagons Gallery](https://ram-n.github.io/hexagons-gallery/)**  
   Parametric patterns and algorithmic tiling experiments
 
 - **[Generative Art Archive](https://github.com/Ram-N/generative_art/blob/master/contact_sheet.md)**  
-  My evolving collection of visual code sketches using p5.js and Python
+  For close to 2 years, I was trying Generative Art. (This was before the LLM-era!)This is my collection of visual code sketches using p5.js and Python.
 
-- **[Genuary 2021](https://ram-n.github.io/Genuary_2021/)**  
+- **[Genuary 2021](https://ram-n.github.io/Genuary_2021/)**  Coding Challenge
+  
   31 generative prompts, 31 visual responses — all created in January 2021
 
-- **[Generative Art Tutorials](https://ram-n.github.io/generative_art/_build/html/index.html)**  
-  Step-by-step walkthroughs for building your own visual sketches
+- **[Generative Art Tutorials](https://ram-n.github.io/hexagons/build/html/documentation_jupyter.html)**
+-  Step-by-step walkthroughs for building your own visual sketches
 
 
 ---
 
 ### What I’m Reading & Learning
 
-Books are a big part of my life — I read across genres and track my progress via Goodreads.  
-I aim to read 30+ books a year, and my shelf includes non-fiction, tech, history, some fiction and the occasional curveball.
+Reading books is an important part of my daily life — I read across genres and track my progress via Goodreads. 
+I aim to read 30+ books a year. My shelf includes non-fiction, tech, history, some fiction and the occasional curveball. I am very fond of travel books. (See LitMap)
 
 | Books Read|
 |------|
-| [2025](https://www.goodreads.com/user_challenges/XXXXX) | 
+| [Books Read in 2025](https://www.goodreads.com/user_challenges/XXXXX) | 
 | [Books Read in 2024](https://www.goodreads.com/user/year_in_books/2024/37469588) | 
 | [Books Read in 2023](https://www.goodreads.com/user/year_in_books/2023/37469588) | 
 | [Books Read in 2022](https://www.goodreads.com/user/year_in_books/2022/37469588) | 

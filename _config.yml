@@ -1,6 +1,6 @@
 title: Ram N
 description: Data science, Education, Tinkering 
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag
@@ -17,5 +17,5 @@ show_downloads: false
 # Social links
 github:
   username: Ram-N
-linkedin: yourprofile
+linkedin: https://www.linkedin.com/in/ramnarasimhan1/
 goodreads: https://www.goodreads.com/user/show/37469588-ramnarasimhan
