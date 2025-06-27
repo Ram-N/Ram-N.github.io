@@ -3,3 +3,13 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# AI-related files
+CLAUDE.md
+.cursor/
+.cursorrules
+.github/copilot-instructions.md
+
+# Windows metadata files
+*:Zone.Identifier
+*:Zone.Identifier*
