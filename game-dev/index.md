@@ -9,6 +9,14 @@ Welcome to my game development journey. This section documents my progress, expe
 
 ---
 
+
+## June 27, 2025
+
+{% include_relative 2025-06-27.md %}
+
+{% include_relative llm_prompts.md %}
+---
+
 ## June 26, 2025
 
 {% include_relative 2025-06-26.md %}
