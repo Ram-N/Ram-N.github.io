@@ -11,7 +11,7 @@ Welcome to my game development journey. This section documents my progress, expe
 
 ## June 29, 2025
 
-{% include_relative 2025-09-26.md %}
+{% include_relative 2025-06-29.md %}
 
 ---
 
