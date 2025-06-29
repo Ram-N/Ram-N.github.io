@@ -13,3 +13,6 @@ CLAUDE.md
 # Windows metadata files
 *:Zone.Identifier
 *:Zone.Identifier*
+
+#VS Code Workspace
+*.code-workspace
