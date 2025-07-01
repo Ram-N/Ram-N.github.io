@@ -8,14 +8,24 @@ This page is my attempt at documenting my progress, experiments, and learnings a
 
 
 ### PivotMaster Development Timeline (Reverse Chronological)
+
 | Day                | Highlights / Comments                                                                      | Link to Detailed Notes | Link to Game State |
 | ------------------ | ------------------------------------------------------------------------------------------ | ---------------------- | ------------------ |
+| Day 5             | (2025-7-01) <br> Added a Distance Metric <br>  Gray and Monochrome Theme.| [Day 5 Notes](2025-07-01.html)        | [Game State](https://ram-n.github.io/PivotMaster/v5/index.html)    |
 | Day 4              | (2025-06-30) <br> Layout centering, added sidebar, <br>difficulty levels (3 modes), target square, win condition | [Day 4 Notes](2025-06-30.html)        | [Game State](#)    |
 | Day 3              | Added ghost preview, move counter <br>logic fix, history trail effect for all moves                   | [Day 3 Notes](2025-06-29.html)       | [Game State](#)    |
 | Day 2              | Initial square/grid background, <br> click-to-select pivot corner<br>   introduced rotation animation, fixed pivot selection         | [Day 2 Notes](2025-06-27.html)       | [Game State](#)    |
 | Day 1              | Project kickoff, initial brainstorming, <br> verbal description of gameplay, MVG concept  <br> 20 minutes with ChatGPT (audio+STT, text replies)      | [Day 1 Notes](2025-06-26.html)       | No coding   |
 
+---
+### PivotMaster V5 - Coding Summary (July 1, 2025)
 
+* Created and worked on `V5` Git branch for versioned development.
+* Restyled side panel: stretched height, bold fonts, improved radio button alignment.
+* Modernized Start Level button: larger, uppercase, black/white theme.
+* Added live "Distance to Target" display to analytics panel.
+* Changed target square: dotted black outline, gray corner dots (replacing red and yellow).
+* Merged `V5` into `main` for GitHub Pages deployment and tagged as `V5`.
 
 ---
 ### Day 4 - 21 minutes - June 30, 2025
@@ -61,8 +71,7 @@ This page is my attempt at documenting my progress, experiments, and learnings a
 
 ## June 26, 2025
 
-{% include_relative 2025-06-26.md %}
-
+[Detailed Notes](2025-06-26.html)
 ---
 
 <!-- {% comment %}
