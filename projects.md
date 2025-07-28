@@ -2,14 +2,15 @@
 layout: default
 title: Projects
 ---
----
-layout: default
-title: Projects
----
 
 # Projects
 
 This page highlights some of my current projects. Each one reflects a different area I’m exploring: games, AI education, and word puzzles.
+
+## LitMap
+
+## Games of History
+
 
 ## Pivot Master
 

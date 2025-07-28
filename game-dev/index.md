@@ -12,9 +12,9 @@ This page is my attempt at documenting my progress, experiments, and learnings a
 | Day                | Highlights / Comments                                                                      | Link to Detailed Notes | Link to Game State |
 | ------------------ | ------------------------------------------------------------------------------------------ | ---------------------- | ------------------ |
 | Day 5             | (2025-7-01) <br> Added a Distance Metric <br>  Gray and Monochrome Theme.| [Day 5 Notes](2025-07-01.html)        | [Game State](https://ram-n.github.io/PivotMaster/v5/index.html)    |
-| Day 4              | (2025-06-30) <br> Layout centering, added sidebar, <br>difficulty levels (3 modes), target square, win condition | [Day 4 Notes](2025-06-30.html)        | [Game State](#)    |
-| Day 3              | Added ghost preview, move counter <br>logic fix, history trail effect for all moves                   | [Day 3 Notes](2025-06-29.html)       | [Game State](#)    |
-| Day 2              | Initial square/grid background, <br> click-to-select pivot corner<br>   introduced rotation animation, fixed pivot selection         | [Day 2 Notes](2025-06-27.html)       | [Game State](#)    |
+| Day 4              | (2025-06-30) <br> Layout centering, added sidebar, <br>difficulty levels (3 modes), target square, win condition | [Day 4 Notes](2025-06-30.html)        | [Game State](https://ram-n.github.io/PivotMaster/v4/index.html)  |
+| Day 3              | Added ghost preview, move counter <br>logic fix, history trail effect for all moves                   | [Day 3 Notes](2025-06-29.html)       | [Game State](https://ram-n.github.io/PivotMaster/v3/index.html)   |
+| Day 2              | Initial square/grid background, <br> click-to-select pivot corner<br>   introduced rotation animation, fixed pivot selection         | [Day 2 Notes](2025-06-27.html)       | [Game State](https://ram-n.github.io/PivotMaster/v1/index.html)   |
 | Day 1              | Project kickoff, initial brainstorming, <br> verbal description of gameplay, MVG concept  <br> 20 minutes with ChatGPT (audio+STT, text replies)      | [Day 1 Notes](2025-06-26.html)       | No coding   |
 
 ---
@@ -45,7 +45,6 @@ This page is my attempt at documenting my progress, experiments, and learnings a
 ### Day 3 - 21 minutes - Sunday June 29, 2025
 
 [Detailed Notes](2025-06-29.html)
-<!-- {% include_relative 2025-06-29.md %} -->
 
 - Click-based **pivot point selection**.
 - **Visual pivot circles** for guidance.
@@ -72,6 +71,7 @@ This page is my attempt at documenting my progress, experiments, and learnings a
 ## June 26, 2025
 
 [Detailed Notes](2025-06-26.html)
+
 ---
 
 <!-- {% comment %}
