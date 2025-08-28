@@ -5,76 +5,55 @@ title: Home
 
 # Ram Narasimhan
 
-#### Data, Code, Curiosity
+## Data Scientist, Educator, Creative Technologist
 
-![Ram's Avatar](https://avatars.githubusercontent.com/Ram-N?size=150)
+![Ram's Avatar](https://avatars.githubusercontent.com/Ram-N?size=150){: .avatar}
 
----
+## About Me
 
-### Who I Am
+I'm a data scientist and curious technologist who loves exploring the intersection of technology, creativity, and learning. My projects span code, visuals, and interactive tools — always driven by curiosity and the joy of discovery.
 
-I'm a data scientist, trainer, educator, and curious technologist. 
-This page is mostly for my "side projects" which I pursue diligently for months at a time, until I find another shiny spoon!
+## Featured Projects
 
-I am happy to share what I learn and building things that invite others to explore
+<div class="projects-grid">
+{% for project in site.projects limit:4 %}
+  <div class="project-card">
+    <h3>{{ project.title }}</h3>
+    <p>{{ project.description }}</p>
+    <a href="{{ project.url }}" class="project-link">Learn More</a>
+  </div>
+{% endfor %}
+</div>
 
----
+[View All Projects](/projects){: .btn .btn-primary}
 
+## Art & Coding Experiments
 
-### What I’m Creating
+- **[Hexagons Gallery](https://ram-n.github.io/hexagons-gallery/)**: Parametric patterns and algorithmic tiling
+- **[Generative Art Archive](https://github.com/Ram-N/generative_art/blob/master/contact_sheet.md)**: Visual code sketches using p5.js and Python
+- **[Genuary 2021](https://ram-n.github.io/Genuary_2021/)**: 31 generative art prompts in one month
 
-I work across code, visuals, and interactive tools — 
-Many of my side projects live in their own GitHub repos or galleries.
+## Reading Journey
 
-**Explore the full list:**  
-→ [View All Projects](/projects)
+I'm passionate about continuous learning, typically reading 30+ books annually across genres:
+- Non-fiction
+- Technology
+- History
+- Travel narratives
+- Occasional fiction
 
-## Art Projects
-A few highlights:
+### Recent Reading Highlights
 
-- **[Hexagons Gallery](https://ram-n.github.io/hexagons-gallery/)**  
-  Parametric patterns and algorithmic tiling experiments
+{% for year in (2020..2025) reversed %}
+- [Books Read in {{ year }}](https://www.goodreads.com/user/year_in_books/{{ year }}/37469588)
+{% endfor %}
 
-- **[Generative Art Archive](https://github.com/Ram-N/generative_art/blob/master/contact_sheet.md)**  
-  For close to 2 years, I was trying Generative Art. (This was before the LLM-era!)This is my collection of visual code sketches using p5.js and Python.
+[Follow my full reading journey on Goodreads](https://www.goodreads.com/user/show/37469588-ramnarasimhan){: .btn .btn-secondary}
 
-- **[Genuary 2021](https://ram-n.github.io/Genuary_2021/)**  Coding Challenge
-  
-  31 generative prompts, 31 visual responses — all created in January 2021
+## Connect
 
-- **[Generative Art Tutorials](https://ram-n.github.io/hexagons/build/html/documentation_jupyter.html)**
--  Step-by-step walkthroughs for building your own visual sketches
+- [GitHub](https://github.com/Ram-N)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Email](mailto:your.email@domain.com)
 
-
----
-
-### What I’m Reading & Learning
-
-Reading books is an important part of my daily life — I read across genres and track my progress via Goodreads. 
-I aim to read 30+ books a year. My shelf includes non-fiction, tech, history, some fiction and the occasional curveball. I am very fond of travel books. (See LitMap)
-
-| Books Read|
-|------|
-| [Books Read in 2025](https://www.goodreads.com/user_challenges/XXXXX) | 
-| [Books Read in 2024](https://www.goodreads.com/user/year_in_books/2024/37469588) | 
-| [Books Read in 2023](https://www.goodreads.com/user/year_in_books/2023/37469588) | 
-| [Books Read in 2022](https://www.goodreads.com/user/year_in_books/2022/37469588) | 
-| [Books Read in 2021](https://www.goodreads.com/user/year_in_books/2021/37469588) | 
-| [Books Read in 2020](https://www.goodreads.com/user/year_in_books/2020/37469588) | 
-| [Books Read in 2019](https://www.goodreads.com/user/year_in_books/2019/37469588) | 
-| [Books Read in 2018](https://www.goodreads.com/user/year_in_books/2018/37469588) | 
-| [Books Read in 2017](https://www.goodreads.com/user/year_in_books/2017/37469588) | 
-
-You can follow my full reading history and reviews on  
-**[Goodreads](https://www.goodreads.com/user/show/37469588-ramnarasimhan)**
-
----
-
-### Elsewhere
-
-- **GitHub**: [github.com/Ram-N](https://github.com/Ram-N)
-- **Goodreads**: [Reading Profile](https://www.goodreads.com/user/show/XXXXXXX)
-- **Email**: [your.email@domain.com](mailto:your.email@domain.com)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-_Last updated: June 2025_
+_Last updated: August 2025_

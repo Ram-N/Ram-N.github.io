@@ -7,14 +7,24 @@ title: Today I Learned (TIL)
 Just an assortment of (mostly) Tech-related things I learn, figure out or try for the first time. Sometimes, it is just to admire something!
 
 
+### Connecting Claude SDK to my Github Repo
+(2025-08-27, Wed)
+
+Today I learned how to integrate the Claude AI assistant directly into a GitHub repository. By running the `/install-github-app` command in Claude, a repository admin can connect their account and set up the necessary secrets. This allows for a seamless workflow where you can summon Claude's help on issues and pull requests simply by mentioning @claude directly within GitHub. It's a powerful way to bring AI assistance right into your development process.
+[https://docs.anthropic.com/en/docs/claude-code/github-actions]
+
+---
+
 ### When an LLM corrects your Understanding or misconception
 
 Today, Gemini Pro told me:
 
-    You don't need to push the image to Docker Hub for your co-developer to work on the code. Docker Hub is typically used for distributing a finished version of your application (e.g., for deployment), not for collaborative development.
+    You don't need to push the image to Docker Hub for your co-developer to work on the code. 
+     Hub is typically used for distributing a finished version of your application 
+     (e.g., for deployment), not for collaborative development.
 
 The format... You don't need to do `xyz` ... because `xyz` is only for `XYZ` tasks, but what you want is `ABC`.
-I find enlightening. It corrects my misconceptions.
+I find these types of nudges very enlightening. It corrects my misconceptions.
 
 
 ### Installed playwright mcp
