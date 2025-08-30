@@ -6,6 +6,11 @@ title: Today I Learned (TIL)
 # Today I Learned
 Just an assortment of (mostly) Tech-related things I learn, figure out or try for the first time. Sometimes, it is just to admire something!
 
+### Meta Workflow Creation Using LLM
+2025-08-30
+This is very meta. I used an LLM to create a workflow to create a slash command inside Claude Code. That slash command will update my TIL list. That's my learning for today.
+
+#meta #workflow #claude-code
 
 ### Connecting Claude SDK to my Github Repo
 (2025-08-27, Wed)
