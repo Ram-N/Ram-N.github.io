@@ -42,6 +42,22 @@ It flips the traditional learning approach: students first take quizzes to disco
 
 ---
 
+## Tabletalk
+
+**Description:**  
+Tabletalk is a powerful tool that enables users to query CSV files using natural language (English).  
+Instead of writing SQL or pandas code, users can simply ask questions like "Show me sales from last quarter" or "What's the average price by category?"
+
+**Key Features:**  
+- Natural language to SQL/pandas translation  
+- HTML frontend with FastAPI backend  
+- Interactive CSV file analysis  
+- No coding required for data exploration  
+
+**GitHub:** [tabletalk](https://github.com/Ram-N/tabletalk)
+
+---
+
 ## Clue Chain
 
 **Description:**  
