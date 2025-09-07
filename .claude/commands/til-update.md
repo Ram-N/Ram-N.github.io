@@ -15,16 +15,21 @@
 **Formatting rules**
 
 1. Derive a concise title (max \~70 chars) from `USER_TEXT`. Use Title Case. No trailing period.
-2. Date = today in `TIMEZONE`, formatted `YYYY-MM-DD`.
+2. Date = today in `TIMEZONE`, formatted `YYYY-MM-DD`. Add the 3-letter abbr. for the day of the week.
 3. Extract 1–2 relevant keywords and render as hashtags (lowercase, kebab-case; e.g., `#vim`, `#git-aliases`). Do not repeat words from the title unless they add value.
-4. The entry must be exactly this Markdown block (blank line between sections):
+4. Add 3 hypens to denote that this is a new entry.
+5. The entry must be exactly this Markdown block (blank line between sections):
 
 ```
 ### {TITLE}
-{DATE}
+
+({DATE, Day of week (3-letter abbreviation)})
+
 {USER_TEXT}
 
 {HASHTAGS_LINE}
+---
+
 ```
 
 * If there are no good keywords, omit the hashtags line entirely (don’t add an empty line).
@@ -76,11 +81,15 @@ Possible formatted entry:
 
 ```
 ### Git Alias for Instant Amend
-2025-08-30
+
+(2025-08-30, Fri)
+
 Learned how to create a global git alias for amending the last commit without opening an editor.
 Alias: git config --global alias.fix "commit --amend --no-edit"
 
 #git #git-aliases
+---
+
 ```
 
 Commit message:

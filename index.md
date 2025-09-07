@@ -5,13 +5,11 @@ title: Home
 
 # Ram Narasimhan
 
-## Data Scientist, Educator, Creative Technologist
-
 ![Ram's Avatar](https://avatars.githubusercontent.com/Ram-N?size=150){: .avatar}
 
 ## About Me
 
-I'm a data scientist and curious technologist who loves exploring the intersection of technology, creativity, and learning. My projects span code, visuals, and interactive tools — always driven by curiosity and the joy of discovery.
+I'm a data scientist by profession, with a background in mathematical optimization. More generally, I'm just a curious person who loves exploring the intersection of technology and learning. My projects span code, visuals, and interactive tools. Often, I try and "teach" the things that I've learned to others.
 
 ## Featured Projects
 
@@ -25,17 +23,12 @@ I'm a data scientist and curious technologist who loves exploring the intersecti
 {% endfor %}
 </div>
 
-[View All Projects](/projects){: .btn .btn-primary}
+[My Projects](/projects){: .btn .btn-primary}
 
-## Art & Coding Experiments
-
-- **[Hexagons Gallery](https://ram-n.github.io/hexagons-gallery/)**: Parametric patterns and algorithmic tiling
-- **[Generative Art Archive](https://github.com/Ram-N/generative_art/blob/master/contact_sheet.md)**: Visual code sketches using p5.js and Python
-- **[Genuary 2021](https://ram-n.github.io/Genuary_2021/)**: 31 generative art prompts in one month
 
 ## Reading Journey
 
-I'm passionate about continuous learning, typically reading 30+ books annually across genres:
+I typically reading 30+ books annually across genres:
 - Non-fiction
 - Technology
 - History
@@ -49,6 +42,15 @@ I'm passionate about continuous learning, typically reading 30+ books annually a
 {% endfor %}
 
 [Follow my full reading journey on Goodreads](https://www.goodreads.com/user/show/37469588-ramnarasimhan){: .btn .btn-secondary}
+
+## Generative Art & Coding Experiments
+
+*Note these were created before GenAI and LLM's dominated this space. These are programmatic ways to generate/create art*
+
+- **[Hexagons Gallery](https://ram-n.github.io/hexagons-gallery/)**: Parametric patterns and algorithmic tiling
+- **[Generative Art Archive](https://github.com/Ram-N/generative_art/blob/master/contact_sheet.md)**: Visual code sketches using p5.js and Python
+- **[Genuary 2021](https://ram-n.github.io/Genuary_2021/)**: 31 generative art prompts in one month
+
 
 ## Connect
 
