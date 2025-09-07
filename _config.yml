@@ -8,8 +8,9 @@ plugins:
 collections:
   projects:
     output: true
-  til:
+  TIL:
     output: true
+    permalink: /:collection/:name/
 
 # Optional (appears in sidebar)
 logo: https://avatars.githubusercontent.com/Ram-N?size=150
