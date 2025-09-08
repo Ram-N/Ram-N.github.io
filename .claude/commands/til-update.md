@@ -8,7 +8,7 @@
 * Optional overrides:
 
   * `REPO_PATH` (default: current working directory)
-  * `TIL_DIR` (default: `_TIL/`)
+  * `TIL_DIR` (default: `TIL/`)
   * `BRANCH` (default: `main`)
   * `TIMEZONE` (default: America/New\_York)
 
@@ -29,7 +29,7 @@ Always prompt for missing information before proceeding with file creation.
 1. Derive a concise title (max \~70 chars) from `USER_TEXT`. Use Title Case. No trailing period.
 2. Date = today in `TIMEZONE`, formatted `YYYY-MM-DD`. Add the 3-letter abbr. for the day of the week.
 3. Extract 2–4 relevant keywords and render as hashtags (lowercase, kebab-case; e.g., `#vim`, `#git-aliases`). Do not repeat words from the title unless they add value.
-4. Filename = `YYYY-MM-DD_TIL.md` in the `_TIL/` directory.
+4. Filename = `YYYY-MM-DD_TIL.md` in the `TIL/` directory.
 5. The file must be exactly this structure:
 
 ```
@@ -53,16 +53,16 @@ tags: [tag1, tag2, tag3]
 
 **File creation rules**
 
-* Create a new file `YYYY-MM-DD_TIL.md` in the `_TIL/` directory.
-* If the _TIL directory doesn't exist, create it.
+* Create a new file `YYYY-MM-DD_TIL.md` in the `TIL/` directory.
+* If the TIL directory doesn't exist, create it.
 * Each TIL entry is its own standalone file with complete YAML front matter.
 * Use the exact structure shown above with proper Jekyll front matter.
 
 **Git workflow**
 
 1. `cd` to `REPO_PATH`. (default /home/ram/projects/Ram-N.github.io)
-2. Create the new TIL file `_TIL/YYYY-MM-DD_TIL.md` as specified above.
-3. `git add _TIL/YYYY-MM-DD_TIL.md`
+2. Create the new TIL file `TIL/YYYY-MM-DD_TIL.md` as specified above.
+3. `git add TIL/YYYY-MM-DD_TIL.md`
 4. Use the /git-commit slash command to commit the changes.
 5. `git push origin {BRANCH}`
 
@@ -70,7 +70,7 @@ tags: [tag1, tag2, tag3]
 
 * If the working tree is dirty with unrelated changes, run `git stash -u` before step 4, then after pushing successfully, try `git stash pop`. If conflicts on pop, keep the stash and report that manual resolution is needed.
 * If rebase/push fails due to remote updates, retry once: `git pull --rebase`, re-add if needed, then push again. If still failing, report the exact Git error.
-* If the `_TIL/` directory doesn't exist, create it.
+* If the `TIL/` directory doesn't exist, create it.
 * Always preserve Unix newlines (`\n`).
 
 **Output (what you report back to the user)**
@@ -80,7 +80,7 @@ tags: [tag1, tag2, tag3]
 
   * Title
   * Date
-  * Filename created: `_TIL/YYYY-MM-DD_TIL.md`
+  * Filename created: `TIL/YYYY-MM-DD_TIL.md`
   * Commit message
   * The hashtags used (or `none`)
 * Do **not** echo the full file; only confirm the file creation.
@@ -93,7 +93,7 @@ Learned how to create a global git alias for amending the last commit without op
 Alias: git config --global alias.fix "commit --amend --no-edit"
 ```
 
-Possible formatted file (`_TIL/2025-08-30_TIL.md`):
+Possible formatted file (`TIL/2025-08-30_TIL.md`):
 
 ```
 ---
@@ -121,6 +121,6 @@ TIL: Git Alias for Instant Amend (2025-08-30)
 
 **Success criteria**
 
-* New TIL file created in `_TIL/` directory with proper YAML front matter.
+* New TIL file created in `TIL/` directory with proper YAML front matter.
 * File follows the exact structure specified above.
 * Commit exists on `origin/{BRANCH}` with the new file.
