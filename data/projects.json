@@ -1,0 +1,178 @@
+[
+  {
+    "id": "litmap",
+    "title": "LitMap",
+    "icon": "litmap.svg",
+    "category": "Mapping",
+    "color": "#8ab4f8",
+    "description": "Interactive map visualizing literature and authors across geography and time.",
+    "url": "https://github.com/Ram-N/litmap",
+    "status": "Planning",
+    "priority": "Medium"
+  },
+  {
+    "id": "cluechain",
+    "title": "ClueChain",
+    "icon": "cluechain.svg",
+    "category": "Games",
+    "color": "#fdd663",
+    "description": "Word puzzle game with progressive clue reveals. Guess 10 words using cryptic, indirect, and straight clues.",
+    "url": "https://github.com/Ram-N/cluechain",
+    "status": "Active",
+    "priority": "High"
+  },
+  {
+    "id": "ai-demystified",
+    "title": "AI Demystified",
+    "icon": "ai-demystified.svg",
+    "category": "AI Tools",
+    "color": "#81c995",
+    "description": "Web-based GenAI course for students aged 12-18 with quiz-first learning and interactive glossary.",
+    "url": "https://ram-n.github.io/ai-demystified/",
+    "status": "Active",
+    "priority": "High"
+  },
+  {
+    "id": "nova",
+    "title": "NOVA",
+    "icon": "nova.svg",
+    "category": "AI Tools",
+    "color": "#81c995",
+    "description": "Neurodiverse-oriented supportive AI chatbot with emotion detection and personalized guidance.",
+    "url": "https://nova-ivory-three.vercel.app/",
+    "status": "Active",
+    "priority": "High"
+  },
+  {
+    "id": "tabletalk",
+    "title": "Tabletalk",
+    "icon": "tabletalk.svg",
+    "category": "Utilities",
+    "color": "#f28b82",
+    "description": "Natural language CSV querying tool. Ask questions in English, get SQL/pandas results instantly.",
+    "url": "https://github.com/Ram-N/tabletalk",
+    "status": "Active",
+    "priority": "Medium"
+  },
+  {
+    "id": "globetrek",
+    "title": "Globetrek",
+    "icon": "globetrek.svg",
+    "category": "Games",
+    "color": "#fdd663",
+    "description": "Geography exploration game connecting neighboring countries and cultural knowledge.",
+    "url": "https://github.com/Ram-N/globetrek",
+    "status": "On Hold",
+    "priority": "Low"
+  },
+  {
+    "id": "lifelines",
+    "title": "Lifelines",
+    "icon": "lifelines.svg",
+    "category": "Games",
+    "color": "#fdd663",
+    "description": "Timeline-based trivia game testing knowledge of when historical figures were alive.",
+    "url": "#",
+    "status": "Planning",
+    "priority": "Medium"
+  },
+  {
+    "id": "history-book",
+    "title": "Games of History",
+    "icon": "history-book.svg",
+    "category": "Writing",
+    "color": "#c9b396",
+    "description": "Collection of historical game concepts and design explorations through time periods.",
+    "url": "#",
+    "status": "Planning",
+    "priority": "Low"
+  },
+  {
+    "id": "photoscribe",
+    "title": "PhotoScribe",
+    "icon": "photoscribe.svg",
+    "category": "AI Tools",
+    "color": "#81c995",
+    "description": "AI-powered Google Photos cataloger using HuggingFace Florence-2 for automatic image captioning.",
+    "url": "https://github.com/Ram-N/PhotoScribe",
+    "status": "Active",
+    "priority": "Medium"
+  },
+  {
+    "id": "travellens",
+    "title": "TravelLens",
+    "icon": "travellens.svg",
+    "category": "Utilities",
+    "color": "#f28b82",
+    "description": "Photo-based travel journal and location tracker for documenting adventures.",
+    "url": "#",
+    "status": "Planning",
+    "priority": "Low"
+  },
+  {
+    "id": "infinite-quiz",
+    "title": "Infinite Quiz",
+    "icon": "infinite-quiz.svg",
+    "category": "AI Tools",
+    "color": "#81c995",
+    "description": "AI-generated quiz system creating endless personalized questions on any topic.",
+    "url": "#",
+    "status": "Planning",
+    "priority": "Low"
+  },
+  {
+    "id": "pivot-master",
+    "title": "Pivot Master",
+    "icon": "pivot-master.svg",
+    "category": "Games",
+    "color": "#fdd663",
+    "description": "Canvas-based game showcasing iterative game design through multiple development stages.",
+    "url": "#",
+    "status": "Active",
+    "priority": "Medium"
+  },
+  {
+    "id": "monte-carlo",
+    "title": "Risk Dashboard",
+    "icon": "monte-carlo.svg",
+    "category": "Utilities",
+    "color": "#f28b82",
+    "description": "Monte Carlo simulation dashboard for project risk analysis and probability modeling.",
+    "url": "#",
+    "status": "Planning",
+    "priority": "Low"
+  },
+  {
+    "id": "yt-videos",
+    "title": "YT Education",
+    "icon": "yt-videos.svg",
+    "category": "AI Tools",
+    "color": "#81c995",
+    "description": "Educational video series on AI concepts with knowledge distillation and visual explanations.",
+    "url": "#",
+    "status": "Active",
+    "priority": "Medium"
+  },
+  {
+    "id": "github-pages",
+    "title": "Studio Dashboard",
+    "icon": "studio.svg",
+    "category": "Utilities",
+    "color": "#f28b82",
+    "description": "This visual project hub showcasing all creative work in a card-based interface.",
+    "url": "/studio.html",
+    "status": "Active",
+    "priority": "High"
+  },
+  {
+    "id": "hexagons",
+    "title": "Hexagons",
+    "icon": "hexagons.svg",
+    "category": "Writing",
+    "color": "#c9b396",
+    "description": "Generative art project exploring hexagonal patterns and mathematical beauty.",
+    "url": "https://www.instagram.com/explore/tags/dailyhexagon/",
+    "status": "Completed",
+    "priority": "Low"
+  }
+]
