@@ -210,64 +210,34 @@ title: Project Control Panel
 
   <div class="project-cards">
 
-    <!-- NOVA -->
+    <!-- Reconnect (Personal CRM) -->
     <div class="project-card active">
       <div class="project-header">
-        <h3 class="project-title">NOVA</h3>
+        <h3 class="project-title">Reconnect (Personal CRM)</h3>
         <span class="status-badge status-active">Active</span>
       </div>
       <div class="project-meta">
-        <strong>Last Worked:</strong> Aug 29, 2025 | <strong>Priority:</strong> High
+        <strong>Last Worked:</strong> Feb 13, 2026 | <strong>Priority:</strong> High
       </div>
       <div class="tech-stack">
         <span class="tech-badge">React</span>
-        <span class="tech-badge">FastAPI</span>
-        <span class="tech-badge">HuggingFace</span>
-      </div>
-
-      <div class="project-section-content">
-        <h4>Start Here</h4>
-        <code>cd /home/ram/projects/nova/mvp2/nova-backend-simple<br>source nova-venv/bin/activate<br>python main.py</code>
-        <a href="https://nova-ivory-three.vercel.app/" class="project-link" target="_blank">🔗 Live Demo</a>
-      </div>
-
-      <div class="project-section-content">
-        <h4>Next Steps</h4>
-        <p class="next-step">Color-code releases, UI polish, add favicon</p>
-      </div>
-
-      <div class="exit-note">
-        <strong>Exit Note:</strong> Needs consistent trigger logic refinement
-      </div>
-    </div>
-
-    <!-- Personal CRM -->
-    <div class="project-card active">
-      <div class="project-header">
-        <h3 class="project-title">Personal CRM</h3>
-        <span class="status-badge status-warm">Warming Up</span>
-      </div>
-      <div class="project-meta">
-        <strong>Last Worked:</strong> Feb 1, 2026 | <strong>Energy:</strong> Medium
-      </div>
-      <div class="tech-stack">
-        <span class="tech-badge">React</span>
+        <span class="tech-badge">TypeScript</span>
         <span class="tech-badge">Supabase</span>
-        <span class="tech-badge">Node.js</span>
+        <span class="tech-badge">PWA</span>
       </div>
 
       <div class="project-section-content">
         <h4>Start Here</h4>
-        <code>cd personal-crm<br>npm install<br>npm run dev</code>
+        <code>cd Reconnect/web<br>npm install<br>npm run dev</code>
       </div>
 
       <div class="project-section-content">
         <h4>Next Steps</h4>
-        <p class="next-step">Record a fake voice memo and test DB insert</p>
+        <p class="next-step">Test voice recording with pause/resume feature, integrate AI processing</p>
       </div>
 
       <div class="exit-note">
-        <strong>Exit Note:</strong> Supabase project was paused. Restarted successfully. Need to wire STT endpoint next. Start with checking /api/process route.
+        <strong>Exit Note:</strong> Recent features added: pause/resume timer, auto-process triggers, hashtag extraction, Google OAuth. Ready for AI integration testing.
       </div>
     </div>
 
@@ -364,6 +334,37 @@ title: Project Control Panel
   <div class="section-header">🟡 Warm / On Deck</div>
 
   <div class="project-cards">
+
+    <!-- NOVA -->
+    <div class="project-card warm">
+      <div class="project-header">
+        <h3 class="project-title">NOVA</h3>
+        <span class="status-badge status-warm">On Hold</span>
+      </div>
+      <div class="project-meta">
+        <strong>Last Worked:</strong> Aug 29, 2025 | <strong>Priority:</strong> Medium
+      </div>
+      <div class="tech-stack">
+        <span class="tech-badge">React</span>
+        <span class="tech-badge">FastAPI</span>
+        <span class="tech-badge">HuggingFace</span>
+      </div>
+
+      <div class="project-section-content">
+        <h4>Start Here</h4>
+        <code>cd /home/ram/projects/nova/mvp2/nova-backend-simple<br>source nova-venv/bin/activate<br>python main.py</code>
+        <a href="https://nova-ivory-three.vercel.app/" class="project-link" target="_blank">🔗 Live Demo</a>
+      </div>
+
+      <div class="project-section-content">
+        <h4>Next Steps</h4>
+        <p class="next-step">Color-code releases, UI polish, add favicon</p>
+      </div>
+
+      <div class="exit-note">
+        <strong>Exit Note:</strong> Needs consistent trigger logic refinement. Focus shifted to Reconnect.
+      </div>
+    </div>
 
     <!-- Lifelines -->
     <div class="project-card warm">
